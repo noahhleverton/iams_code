@@ -1,0 +1,31 @@
+sector|supplysector,subsector,technology,installed cost (2015 USD),lifetime,O&M cost (2015 USD),efficiency,UEC,shutdown.rate
+residential|heating,biomass,biomass,616.95,15,123.39,0.4,150,0.024
+residential|heating,coal,coal,616.95,15,123.39,0.5,120,0.024
+residential|heating,electricity,electricity,2467.8,20,61.695,0.95,78.94736842,0.024
+residential|heating,gas,gas,1850.85,20,61.695,0.8,70.1575,0.024
+residential|heating,refined liquids,refined liquids,1850.85,15,123.39,0.8,68.75,0.024
+residential|heating,traditional biomass,traditional biomass,61.695,10,12.339,0.15,150,0.024
+residential|heating,district heat,district heat,616.95,20,24.678,0.9,44.44444444,0.024
+residential|cooling,electricity,electricity,2467.8,15,123.39,2.63,7.0092,0.034
+residential|cooling,gas,gas,3084.75,15,123.39,0.83,15.6626506,0.034
+residential|others,biomass,biomass,1233.9,10,30.8475,0.3,66.66666667,0.029
+residential|others,coal,coal,1233.9,10,30.8475,0.4,75,0.029
+residential|others,electricity,electricity,1850.85,10,24.678,0.95,36.84210526,0.029
+residential|others,gas,gas,1850.85,10,24.678,0.6,50,0.029
+residential|others,refined liquids,refined liquids,1850.85,10,61.695,0.6,50,0.029
+residential|others,traditional biomass,traditional biomass,61.695,10,12.339,0.15,66.66666667,0.029
+residential|others,district heat,district heat,616.95,20,30.8475,0.9,22.22222222,0.029
+commercial|heating,biomass,biomass,2467.8,20,246.78,0.4,375,0.024
+commercial|heating,coal,coal,2467.8,20,246.78,0.5,300,0.024
+commercial|heating,electricity,electricity,6169.5,25,246.78,0.95,210.5263158,0.024
+commercial|heating,gas,gas,6169.5,25,246.78,0.79,211,0.024
+commercial|heating,refined liquids,refined liquids,6169.5,25,246.78,0.82,182.9268293,0.024
+commercial|heating,district heat,district heat,2467.8,20,24.678,0.9,166.6666667,0.024
+commercial|cooling,electricity,electricity,5490.855,15,188.7867,2.73,35.046,0.034
+commercial|cooling,gas,gas,4935.6,15,246.78,0.83,60.24096386,0.034
+commercial|others,biomass,biomass,2467.8,10,61.695,0.3,133.3333333,0.029
+commercial|others,coal,coal,2467.8,10,61.695,0.4,150,0.029
+commercial|others,electricity,electricity,3701.7,10,61.695,0.95,73.68421053,0.029
+commercial|others,gas,gas,3701.7,10,123.39,0.6,108.3333333,0.029
+commercial|others,refined liquids,refined liquids,3701.7,10,123.39,0.6,100,0.029
+commercial|others,district heat,district heat,2467.8,20,61.695,0.9,66.66666667,0.029

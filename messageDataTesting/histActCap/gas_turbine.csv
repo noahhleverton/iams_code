@@ -1,0 +1,20 @@
+year,region,Type of electricity generation,Principal fuel,value,unit
+2015,Canada,Conventional steam turbine,Natural gas,4742499,Kilowatts
+2015,Canada,Combustion turbine,Natural gas,11464685,Kilowatts
+2015,Newfoundland and Labrador,Combustion turbine,Natural gas,43000,Kilowatts
+2015,Nova Scotia,Combustion turbine,Natural gas,98000,Kilowatts
+2015,New Brunswick,Conventional steam turbine,Natural gas,,Kilowatts
+2015,New Brunswick,Combustion turbine,Natural gas,188000,Kilowatts
+2015,Quebec,Conventional steam turbine,Natural gas,200000,Kilowatts
+2015,Quebec,Combustion turbine,Natural gas,360000,Kilowatts
+2015,Ontario,Conventional steam turbine,Natural gas,2390469,Kilowatts
+2015,Ontario,Combustion turbine,Natural gas,5129910,Kilowatts
+2015,Manitoba,Conventional steam turbine,Natural gas,132000,Kilowatts
+2015,Manitoba,Combustion turbine,Natural gas,267600,Kilowatts
+2015,Saskatchewan,Conventional steam turbine,Natural gas,448450,Kilowatts
+2015,Saskatchewan,Combustion turbine,Natural gas,1058500,Kilowatts
+2015,Alberta,Conventional steam turbine,Natural gas,1435580,Kilowatts
+2015,Alberta,Combustion turbine,Natural gas,3863175,Kilowatts
+2015,British Columbia,Conventional steam turbine,Natural gas,136000,Kilowatts
+2015,British Columbia,Combustion turbine,Natural gas,437000,Kilowatts
+2015,Northwest Territories,Combustion turbine,Natural gas,19500,Kilowatts
